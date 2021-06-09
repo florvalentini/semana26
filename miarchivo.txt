@@ -1,3 +1,4 @@
 Este es mi archivo de prueba para probar git.
 Estoy codificando
 Ingresé una línea
+Agregación nueva, segunda línea
